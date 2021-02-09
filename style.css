@@ -1,0 +1,41 @@
+.box1{
+    background-color: bisque;
+    font-size: 160%;
+    color: rgb(88, 7, 32);
+    text-decoration: double;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    font-style: italic;
+    border:5px rgb(182, 182, 248)  dotted;
+    border-radius: 40px;
+    text-align: center;
+}
+.box1 h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-style: oblique;
+    text-decoration: double;
+    text-transform: uppercase;
+    letter-spacing: 1em;
+    word-spacing: 1em;
+    color: rgb(110, 8, 8);
+    text-align: center;
+}
+button{
+    background-color:#444444;
+    color: beige;
+    padding: 20px 35px;
+    margin:15px;
+    transition-duration: 0.4s;
+}
+button:hover{
+    background-color: grey;
+}
+button:active{
+    background-color: aliceblue;
+}
+body{
+    background-image:url("backgroundD.jpg");
+    text-align: center;
+    margin-top: 100px;
+}
